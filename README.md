@@ -1,4 +1,4 @@
-# 👋 About Me
+#  About Me
 
 I’m a **Data Scientist & AI Engineer** specializing in **Generative AI, Large Language Models (LLMs), Agentic AI, and NLP**, with a strong focus on turning emerging AI capabilities into practical, production-ready systems.
 
