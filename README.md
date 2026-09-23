@@ -1,27 +1,31 @@
-#  About Me
+# About Me
 
-I’m a **Data Scientist & AI Engineer** specializing in **Generative AI, Large Language Models (LLMs), Agentic AI, and NLP**, with a strong focus on turning emerging AI capabilities into practical, production-ready systems.
+I’m a **Data Scientist & AI Engineer** specializing in **Generative AI, Large Language Models (LLMs), Agentic AI, and NLP**, with a strong focus on building practical, production-ready AI systems.
 
-My recent work focuses on building **LLM-powered applications, AI agents, RAG pipelines, and domain-specific intelligent assistants**. I work across the full AI application lifecycle — from **prompt engineering, retrieval and context management, and tool calling** to **agent orchestration, model evaluation, optimization, and deployment**.
+My work focuses on developing **LLM-powered applications, AI agents, RAG pipelines, and domain-specific intelligent assistants**, including systems built around **local and open-source language models**.
 
-I’m particularly interested in building AI systems that can **reason over enterprise knowledge, interact with tools, retrieve relevant information, analyze structured and unstructured data, and execute multi-step workflows**.
+I have hands-on experience working with **local LLMs and Ollama**, enabling organizations to run AI workloads in **private, on-premise, and controlled environments** without depending entirely on external model APIs. I’m particularly interested in optimizing and integrating local models into real-world applications through **RAG, tool calling, agentic workflows, prompt engineering, and context management**.
+
+I work across the AI application lifecycle — from **model selection and local inference** to **retrieval, agent orchestration, API development, evaluation, optimization, and deployment**.
 
 ### 🚀 Core Areas
 
 * 🤖 **Agentic AI & AI Agents**
 * 🧠 **Large Language Models (LLMs)**
+* 🖥️ **Local & Open-Source LLMs**
+* 🦙 **Ollama & Local Model Serving**
 * 🔗 **LangChain & LangGraph**
 * 📚 **Retrieval-Augmented Generation (RAG)**
 * 🔍 **Semantic Search & Hybrid Retrieval**
-* 🧩 **Tool Calling & Agent Workflows**
-* ✍️ **Prompt Engineering & Context Engineering**
+* 🧩 **Tool Calling & Multi-Step Agent Workflows**
+* ✍️ **Prompt & Context Engineering**
 * 💬 **Natural Language Processing (NLP)**
-* ⚡ **LLM Optimization & Local/On-Premise AI**
+* ⚡ **LLM Optimization & Local Inference**
 * 🧪 **Fine-Tuning & Domain-Specific AI**
 * 🛡️ **AI for Cybersecurity**
 * 🚀 **Production AI Systems & API Development**
 
-I enjoy working at the intersection of **AI research and real-world engineering**, transforming research concepts into reliable applications that solve complex business and technical problems.
+I enjoy working at the intersection of **AI research and software engineering**, transforming LLM and agentic AI concepts into reliable applications that solve real-world problems.
 
 ---
 
@@ -42,6 +46,8 @@ I enjoy working at the intersection of **AI research and real-world engineering*
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white)
+
+**LLMs • Local LLMs • Open-Source Models • Ollama • Local Inference • Agentic AI • Tool Calling • AI Agents**
 
 ### 📚 RAG, Search & Knowledge Systems
 
