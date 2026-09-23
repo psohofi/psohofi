@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 I am a data scientist and researcher with a focus on natural language processing (NLP) and large language models (LLMs). My work involves exploring the capabilities of LLMs, fine-tuning them for domain-specific applications, and developing innovative solutions that harness their potential to understand and generate human language. I am particularly interested in areas such as model optimization, prompt engineering, and responsible AI practices, ensuring that advanced AI systems are both impactful and ethical.
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pouya-sohofi-032646145) 
 
 # 💻 Tech Stack:
